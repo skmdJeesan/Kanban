@@ -4,8 +4,8 @@ A simple and interactive kanban board application built with vanilla HTML, CSS, 
 
 ## Links
 
-- **[Source Code](your-github-repo-link)** - View the complete code on GitHub
-- **[Live Demo](your-live-demo-link)** - Try the application
+- **[Source Code](https://github.com/skmdJeesan/Kanban)** - View the complete code on GitHub
+- **[Live Demo](https://skmdjeesan.github.io/Kanban/)** - Try the application
 
 ## Features
 
